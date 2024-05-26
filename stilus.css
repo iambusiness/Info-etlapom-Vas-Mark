@@ -1,0 +1,32 @@
+h1{text-align: center;}
+#baloldal a {position: absolute;
+    left: 250px;
+    font-size: 20px;}
+h2{font-size: 20px;
+    text-align: center;}
+#jobboldal a {position: absolute;
+    right: 250px;
+    font-size: 20px;}
+body{background-color: yellow;}
+hr{margin-top: 5px;
+    margin-bottom: 5px;
+color: red;
+border: red solid 2px;}
+img:hover{width: 47%;
+    mask-image: none;}
+    img{width: 200px;
+        position: absolute;
+           right: 10px;}
+       .jobbtál{width: 150px;
+    right: 10px;}    
+    .jobbtál:hover{width: 150px;}
+    .baltal{ width: 150px;
+        left: 10px;}
+        .baltal:hover{width: 150px;}
+.ár{text-align: center;
+    font-size: 30px;}
+.fax{color: red;
+    border: red solid 1px;}
+    .fa{font-size: small;}
+    .faxo{text-align: center;}
+    .faxom{text-align: right;}
